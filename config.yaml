@@ -66,18 +66,18 @@ languages:
         #   name: 📚 文章
         #   url: posts
         #   weight: 3
-        - identifier: tags
-          name: 🧩 标签
-          url: tags
-          weight: 15
-        - identifier: archives
-          name: ⏱️ 时间轴
-          url: archives/
-          weight: 20
-        - identifier: about
-          name: 🙋🏻‍♂️ 关于
-          url: about
-          weight: 50
+        # - identifier: tags
+        #   name: 🧩 标签
+        #   url: tags
+        #   weight: 15
+        # - identifier: archives
+        #   name: ⏱️ 时间轴
+        #   url: archives/
+        #   weight: 20
+        # - identifier: about
+        #   name: 🙋🏻‍♂️ 关于
+        #   url: about
+        #   weight: 50
         # - identifier: links
         #   name: 🤝 友链
         #   url: links
