@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LawyerAI&#39;s Blog</title>
-    <link>/</link>
+    <link>https://lawyerai.cc/</link>
     <description>Recent content on LawyerAI&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jul 2023 00:03:47 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2023 12:02:20 +0800</lastBuildDate><atom:link href="https://lawyerai.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>222</title>
+      <link>https://lawyerai.cc/posts/video/222/</link>
+      <pubDate>Tue, 18 Jul 2023 12:02:20 +0800</pubDate>
+      
+      <guid>https://lawyerai.cc/posts/video/222/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>123</title>
-      <link>/posts/video/123/</link>
+      <link>https://lawyerai.cc/posts/video/123/</link>
       <pubDate>Tue, 18 Jul 2023 00:03:47 +0800</pubDate>
       
-      <guid>/posts/video/123/</guid>
+      <guid>https://lawyerai.cc/posts/video/123/</guid>
       <description>&lt;!DOCTYPE HTML&gt;</description>
     </item>
     
@@ -20,10 +29,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://lawyerai.cc/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://lawyerai.cc/about/</guid>
       <description>保持热爱，奔赴星海</description>
     </item>
     
