@@ -1,5 +1,0 @@
----
-title: "🧑‍⚖️ LawyerAI"
-hidemeta: true
----
-
